@@ -14,7 +14,11 @@ The steps for this Challenge are divided into the following sections:
 
 ## Usage
 
-To use the Application, download and open the **pychain.py** 
+To use the Application, run the Streamlit application by using `streamlit run pychain.py` 
+
+![1](1.png)
+![2](2.png)
+![3](3.png)
 
 ---
 
